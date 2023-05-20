@@ -1,2 +1,2 @@
-# MediumAsMedia
-MediumAsMedia
+# MediaAsMedium
+MediaAsMedium
